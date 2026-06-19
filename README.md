@@ -1,4 +1,4 @@
-📄 ARIES: Analog & RF Insight and Equation Summarizer
+# 📄 ARIES: Analog & RF Insight and Equation Summarizer
 
 > **대학원 회로 설계실에서 레퍼런스 논문 파헤치다가 화가나서 직접 만든 정보 추출 툴**
 
