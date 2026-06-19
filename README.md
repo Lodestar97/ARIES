@@ -171,7 +171,7 @@ pip install -r requirements.txt
 Get a free Gemini API key at [Google AI Studio](https://aistudio.google.com/api-keys), then run:
 
 ```bash
-python "ARIES(Analog & RF Insight and Equation Summarizer).py"
+python "ARIES.py"
 ```
 
 ### Tech Stack
