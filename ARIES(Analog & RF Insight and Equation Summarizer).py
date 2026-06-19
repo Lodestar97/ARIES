@@ -392,7 +392,7 @@ def generate_integrated_matrix(all_results: list, output_path: str):
 class App:
     def __init__(self, root):
         self.root = root
-        self.root.title("Analog/RF Circuit Paper Analyzer v2.7_By_LSH")
+        self.root.title("Analog/RF Circuit Paper Analyzer v2.7_By_SH")
         self.root.geometry("1030x700")
         
         # 파일 캐싱 및 중단 제어 플래그
