@@ -1,6 +1,6 @@
 # 📄 ARIES: Analog & RF Insight and Equation Summarizer
 
-> **회로 설계 랩실에서 대학원생이 논문 읽다가 화가나서 논문 요약 및 수식 추출 툴**
+> **회로 설계 랩실에서 대학원생이 논문 읽다가 화가나서 만들어본 논문 요약 및 수식 추출 툴**
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
